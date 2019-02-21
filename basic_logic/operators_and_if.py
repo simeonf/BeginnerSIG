@@ -69,7 +69,7 @@ Go ahead and make a function called bigger that returns whichever of the two inp
 In order to run these snippets automatically you could go to your terminal environment (eg
 Terminal.app on Mac) and run the following command (everything after the "$")
 
-$ python getting_started.py
+$ python operators_and_if.py
 
 You should see a report of successes and failures.
 
