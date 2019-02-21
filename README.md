@@ -41,6 +41,7 @@ TODO: Screencast video of completion of an exercise.
 ### Basic concepts
 
 * `basic_logic/operators_and_if.py` - This is a chance to get familiarity with some of the punctuation in Python especially as it applies to numbers and strings.
+* `strings/string_manipulation.py` - Learn more about strings and the many methods often used when working with strings.
 
 ## How do I contribute to this repo?
 
