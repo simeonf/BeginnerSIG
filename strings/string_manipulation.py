@@ -15,14 +15,13 @@ length - how many characters are there? There is a built in function for that:
 >>> len('Simeon')
 6
 
-As you can see there is also a "literal" syntax for making strings. You can just type them in while
-surrounding them with quotes. Single quotes work, double quotes work, triple quotes work!
+As you can see there is also a "literal" syntax for making
+strings. You can just type them in while surrounding them with
+quotes. Single quotes work, double quotes work, triple quotes (three
+quote marks in a row) all work!
 
 >>> "a"
 'a'
->>>
-
-"""a"""'a'
 
 The quotes aren't part of the string - that string "a" has a length of 1 no matter what kind of quotes you used to make it.
 
