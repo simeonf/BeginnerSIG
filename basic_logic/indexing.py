@@ -47,10 +47,8 @@ IndexError: string index out of range
 Maybe we want our first and last functions to work even if passed an empty string. Use and if
 statement to check the container and handle this special case so that the functions return `None`
 
->>> first("")
-None
->>> last("")
-None
+>>> first("")  # returning None results in no output in the interactive interpreter
+>>> last("")   # ditto
 
 # Slices
 
