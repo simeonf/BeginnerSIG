@@ -38,10 +38,17 @@ TODO: Screencast video of completion of an exercise.
 * `getting_started/basic_functions.py` - If you don't know what a function is, do this next. You'll
   need to know about functions to complete any of the other exercises.
 
-### Basic concepts
+### Basic logic
 
 * `basic_logic/operators_and_if.py` - This is a chance to get familiarity with some of the punctuation in Python especially as it applies to numbers and strings.
+* `indexing.py` - Step through arrays (and strings which are arrays of characters) forwards, backwards, and understand unique quirks related to indexing in Python.
+* `looping_and_iteration.py` - Practice using loops (for, while, for x in y) and iterating through them.
+
+### Strings
 * `strings/string_manipulation.py` - Learn more about strings and the many methods often used when working with strings.
+
+### Intermediate
+* `args_and_kwargs.py` - Learn how to create functions that can handle multiple data types for the same input.
 
 ## How do I contribute to this repo?
 
