@@ -91,7 +91,7 @@ args, **kwargs is a catchall for unaccounted for named arguments.
 >>> def variadic2(**kwargs):
 ...     return kwargs
 >>> variadic2(x=1, y=2)
-{'y': 2, 'x': 1}
+{'x': 1, 'y': 2}
 
 So consider how to write functions that can be called like this:
 
@@ -118,8 +118,10 @@ Assuming you named your function with red, green and blue arguments you might ha
 
 >>> color_list = [255, 200, 100]
 >>> color(*color_list)
+(255, 200, 100)
 >>> color_dict = {'red': 255, 'green': 200, 'blue': 100}
 >>> color(**color_dict)
+(255, 200, 100)
 
 Does this make sense?
 
