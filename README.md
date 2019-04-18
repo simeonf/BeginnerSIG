@@ -60,4 +60,4 @@ Feel free to add additional areas or exercises. Please be sure to copy the style
 1. Exercises are defined by a single files with a docstring containing doctests. Exercises should contain as much explanation as tests.
 2. Provide an `if __name__ == '__main__'` block that invokes doctest. Running the file should run the tests.
 3. Be sure to have block comments defining the editable region of the file.
-4. Provide a `_completion.py` file which demonstrates the solutions.
+4. *OPTIONALLY* Provide a `$NAME_completion.py` file which demonstrates the solutions.
