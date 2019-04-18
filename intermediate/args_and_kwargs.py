@@ -90,8 +90,8 @@ args, **kwargs is a catchall for unaccounted for named arguments.
 
 >>> def variadic2(**kwargs):
 ...     return kwargs
->>> variadic2(x=1, y=2)
-{'x': 1, 'y': 2}
+>>> variadic2(x=1, y=2) == {'x': 1, 'y': 2}
+True
 
 So consider how to write functions that can be called like this:
 
