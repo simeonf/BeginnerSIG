@@ -38,8 +38,9 @@ a target value and returns the first index of the target
 
 If you don't find the value, return None.
 
->>> find_needle('Python rocks', 'x')
-None
+>>> find_needle('Python rocks', 'x') == None
+True
+
 
 Go ahead and implement this with a while loop - but also check out help(str.index) when you're done!
 
