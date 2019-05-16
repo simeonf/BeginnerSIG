@@ -13,7 +13,7 @@ length and individual characters can be indexed.
 
 Python doesn't have a character type so what you get back when you index the string is a new string of length 1.
 
-Indexing is just a way to specify which record in a container you want. Ordered cotainers can be
+Indexing is just a way to specify which record in a container you want. Ordered containers can be
 indexed with numbers and the first item in the container is item number 0. The last item has an
 index of len - 1 but Python lets us cheat a little here:
 
