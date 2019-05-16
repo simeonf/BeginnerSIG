@@ -53,7 +53,7 @@ define the functions below to make the examples pass.
 
 Make these examples pass by defining functions.
 
-First make function that takes two arguments and returns the addition of the two values. You could
+First make a function that takes two arguments and returns the addition of the two values. You could
 cheat a bit by reading carefully above!
 
 >>> add_two(4, 5)
