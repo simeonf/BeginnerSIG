@@ -1,0 +1,9 @@
+[security]
+encryption=True
+allow_anonymous=False
+
+[client]
+version=6
+
+[server]
+threads=10
