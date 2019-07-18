@@ -159,7 +159,7 @@ Can we make a LIFO (Last In, First Out) stack with a list? (You know what to do!
 >>> pop(q)
 2
 
-NOTE: Think carefully about the O(N) runtime of these operations. Lists in python are not linked
+NOTE: Think carefully about the O(N) runtime of these operations. Lists in Python are not linked
 lists but arrays of pointers. What do you think is the O(N) magnitude of removing an item from the
 end of a list? How about the O(N) of adding a new item at the head of the list?
 
