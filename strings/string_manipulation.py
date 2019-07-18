@@ -1,4 +1,5 @@
-"""# Strings
+'''
+# Strings
 
 Strings in Python are the data type used to store what we think of as text. My name "Simeon Franklin" is a string.
 
@@ -71,14 +72,14 @@ False
 Sometimes we want to format strings for fixed width output. Can string methods help us?
 
 >>> cell("1,000")
-'      1,000'
+'     1,000'
 >>> len(cell("1,000"))
 10
 
 Sometimes we want to remove errant characters from strings. Can string methods help us?
 
 >>> numeric_cell("1,000")  # Don't get to hung up on doing this right - figure out how to remove that pesky comma!
-'       1000'
+'      1000'
 
 There are many many string methods - check em all out!
 
@@ -95,7 +96,7 @@ You should see a report of successes and failures.
 To make the failing tests pass, add your own Python code or edit the partial completions in the
 space below.
 
-"""
+'''
 
 # DO NOT EDIT ABOVE THIS LINE
 # Add (or edit) python code below this comment block
