@@ -49,6 +49,7 @@ TODO: Screencast video of completion of an exercise.
 
 ### Intermediate
 * `args_and_kwargs.py` - Learn how to create functions that can handle multiple data types for the same input.
+* `generator_functions.py` - Learn how to create functions that define lazy iteration.
 
 ## How do I contribute to this repo?
 
