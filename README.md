@@ -44,10 +44,14 @@ TODO: Screencast video of completion of an exercise.
 * `indexing.py` - Step through arrays (and strings which are arrays of characters) forwards, backwards, and understand unique quirks related to indexing in Python.
 * `looping_and_iteration.py` - Practice using loops (for, while, for x in y) and iterating through them.
 
-### Strings
-* `strings/string_manipulation.py` - Learn more about strings and the many methods often used when working with strings.
+### Containers
+
+* `containers/string_manipulation.py` - Learn more about strings and the many methods often used when working with strings.
+* `containers/using_lists.py` - Learn about the trusty list container type.
+* `containers/using_dicts.py` - Learn about the trusty dictionary container type.
 
 ### Intermediate
+
 * `args_and_kwargs.py` - Learn how to create functions that can handle multiple data types for the same input.
 * `generator_functions.py` - Learn how to create functions that define lazy iteration.
 
