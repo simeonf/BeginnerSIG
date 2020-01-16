@@ -8,7 +8,7 @@ There are a few pre-steps!
 
 1. Pick a partner! You can work on your own but while you're at the meetup find somebody to co-work with. I encourage you
    to alternate who types but work together to complete each exercise. Talk through the problem and solutions before you write any code!
-2. You need a Python installation on your computer - preferably Python 3.6 or greater. TODO: How to work via PythonAnywhere.
+2. You need a Python 3 installation on your computer - preferably Python 3.6 or greater. TODO: How to work via PythonAnywhere.
 3. Clone this repo using git or download it as a zip file and extract it to your machine so you have all the files.
 
 Now that you're setup it's time to work through the exercises. To do so you only need 3 steps.
@@ -41,19 +41,24 @@ TODO: Screencast video of completion of an exercise.
 ### Basic logic
 
 * `basic_logic/operators_and_if.py` - This is a chance to get familiarity with some of the punctuation in Python especially as it applies to numbers and strings.
-* `indexing.py` - Step through arrays (and strings which are arrays of characters) forwards, backwards, and understand unique quirks related to indexing in Python.
-* `looping_and_iteration.py` - Practice using loops (for, while, for x in y) and iterating through them.
+* `basic_logic/indexing.py` - Step through arrays (and strings which are arrays of characters) forwards, backwards, and understand unique quirks related to indexing in Python.
+* `basic_logic/looping_and_iteration.py` - Practice using loops (for, while, for x in y) and iterating through them.
 
 ### Containers
 
 * `containers/string_manipulation.py` - Learn more about strings and the many methods often used when working with strings.
 * `containers/using_lists.py` - Learn about the trusty list container type.
 * `containers/using_dicts.py` - Learn about the trusty dictionary container type.
+* `containers/reading_files.py` - Learn to read text from a file
 
 ### Intermediate
 
-* `args_and_kwargs.py` - Learn how to create functions that can handle multiple data types for the same input.
-* `generator_functions.py` - Learn how to create functions that define lazy iteration.
+* `intermediate/args_and_kwargs.py` - Learn how to create functions that can handle multiple data types for the same input.
+* `intermediate/generator_functions.py` - Learn how to create functions that define lazy iteration.
+
+### Modules
+
+* `modules/read_csv.py` - Learn to read csv data from an external file.
 
 ## How do I contribute to this repo?
 
